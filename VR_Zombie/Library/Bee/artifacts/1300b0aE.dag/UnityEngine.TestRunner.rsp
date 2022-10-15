@@ -304,7 +304,7 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll"
--r:"C:/Users/Master/Desktop/유한/2학년 2학기/AR,VR콘텐츠/VR_Zombie/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+-r:"D:/Git/Portfolio Git/Portfolio_VR-Part1-/VR_Zombie/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 "Library/PackageCache/com.unity.test-framework@1.1.24/UnityEngine.TestRunner/AssemblyInfo.cs"
 "Library/PackageCache/com.unity.test-framework@1.1.24/UnityEngine.TestRunner/Assertions/AllocatingGCMemoryConstraint.cs"
 "Library/PackageCache/com.unity.test-framework@1.1.24/UnityEngine.TestRunner/Assertions/ConstraintsExtensions.cs"
